@@ -1,4 +1,5 @@
-# catalog
+# Product Catalog using FastAPI
+
 This project is a simple catalog API built using FastAPI and SQLAlchemy with SQLite as the database. The project is containerized using Docker and migrations are handled by Alembic.
 
 ### Clone the Repository
